@@ -1,7 +1,7 @@
 # 大量在网络的学习 + 对特定数据的处理 + 对结果的展示 = 本仓库内容
+## 亮点: 每个算法分别用discrete和continuous样本数据(离散样本与连续样本)进行实践操作
 --- 
 ## 本仓库内容包含对以下三种DM算法的实现(所用数据附在文件夹中):
-0. 每个算法分别用discrete和continuous样本数据进行实践操作
 1. Decision Tree - gini index
 2. Naive Bayesian Classification
 3. Artificial Neural Network 
